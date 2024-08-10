@@ -2,4 +2,4 @@ www.torrentbd.com
 www.*.facebook.com
 www.torrentbd.net
 www.*.youtube.com
-www.bbc.com
+www.*.bbc.com
